@@ -14,6 +14,24 @@ Data cleaning and wrangling was accomplished through the use of the `tidyverse` 
 
 ## Screenshots
 
+<br>
+
+![](raw_data/screen_1.png "Screenshot 1")
+
+<br>
+
+<br>
+
+![](raw_data/screen_2.png "Screenshot 2")
+
+<br>
+
+<br>
+
+![](raw_data/screen_3.png "Screenshot 3")
+
+<br>
+
 ## References
 
 All data was sourced from www.opendata.nhs.scot. Please see links below for datasets used:
