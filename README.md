@@ -4,6 +4,8 @@
 
 This repository contains an analysis of cancer incidence data from Public Health Scotland. The entire report was created in R. The objective is to help inform the planning for provision of cancer treatment services in NHS Borders. This project was undertaken as a part of CodeClan's Professional Data Analysis course.
 
+[View Report](https://mrcslx.github.io/nhs_borders.html)
+
 ## Methodology
 
 Through the use of data wrangling and key data visualisations, the aim of this report is to extract valuable insights from the data and present them in a clear and informative way.
