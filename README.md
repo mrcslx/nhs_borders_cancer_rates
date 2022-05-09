@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an analysis of cancer incidence data from Public Health Scotland. The objective is to help inform the planning for provision of cancer treatment services in NHS Borders. This project was undertaken as a part of CodeClan's Professional Data Analysis course.
+This repository contains an analysis of cancer incidence data from Public Health Scotland. The entire report was created in R. The objective is to help inform the planning for provision of cancer treatment services in NHS Borders. This project was undertaken as a part of CodeClan's Professional Data Analysis course.
 
 ## Methodology
 
